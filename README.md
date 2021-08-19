@@ -1,8 +1,12 @@
 # Gaussian-Distribution
-The probability density function of the normal distribution, first derived by De Moivre and 200 years later by both Gauss and Laplace independently, 
-is often called the bell curve because of its characteristic shape.
 
 [![PyPI version](https://badge.fury.io/py/gaussian-distribution.svg)](https://badge.fury.io/py/gaussian-distribution)
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.9](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
+
+The probability density function of the normal distribution, first derived by De Moivre and 200 years later by both Gauss and Laplace independently, 
+is often called the bell curve because of its characteristic shape.
 
 ## Notes
 The probability density for the Gaussian distribution is
